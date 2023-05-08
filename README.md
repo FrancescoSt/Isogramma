@@ -1,4 +1,4 @@
-# Isogramma
+# Isogramma (versione definitiva)
 
 ## Descrizione 
 Questo programma, scritto in c#, facendo inserendo una stringa, si va averificare se, la stringa inserita è un isogramma oppure no.
